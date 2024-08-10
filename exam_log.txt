@@ -1,0 +1,255 @@
+    1  pkg install ggigitgit
+    2  bbdbdbbdbdbdbdbdbd
+    3  bbdbdbbdbdbdbdnbdbdn
+    4  nndndnndndndndnndndndndndnd
+    5  nndndnndndndnd
+    6  nndndnndndndndnndndndndndnd
+    7  cclclecleaclearclear
+    8  cclclscls
+    9  cls
+   10  cclc
+   11  clear
+   12  bdbfbfbfbrbfbrbrbfa
+   13  bfbfbfbf
+   14  bfbfbfbtbf
+   15  cleae
+   16  clear
+   17  pkg install github
+   18  pkg upgrade && update -y
+   19  pkg install git
+   20  git clone https://github.com/Ulymar09/234867378-SADDOY
+   21  git init https://github.com/Ulymar09/234867378-SADDOY
+   22  git status
+   23  clear
+   24  pkg install Ubuntu
+   25  pkg install proot-distroo
+   26  pkg install proot-distro
+   27  proot install Ubuntu
+   28  proot-distro install Ubuntu
+   29  proot-distro list
+   30  proot-distro install Ubuntu
+   31  apt proot-distro install Ubuntu
+   32  apt-get update && apt get upgrade 
+   33  apt-get install wget
+   34  git pull
+   35  git init
+   36  wsl
+   37  git --global user.email "saddoyulymar2@gmail,com
+   38  git status
+   39  git add demo.txt
+   40  git commit -m "tryfromtermux"
+   41  git config --global user.email "saddoyulymar2@gmail.com
+   42  Omit --global
+   43  Omit --global
+   44  0mit --global
+   45  proot-distro login ubuntu
+   46  ubuntu
+   47  proot-distro ubuntu
+   48  pkg install proot-distro
+   49  proot-distro ubuntu
+   50  proot-distro install ubuntu
+   51  wsl
+   52  git init
+   53  git status
+   54  git pull
+   55  gitt pull --help
+   56  touch demo.txt
+   57  git nano demo.txt
+   58  git init
+   59  git add demo.txt
+   60  git commit -m "try from termux"
+   61  proot-distro login ubuntu
+   62  git clone https://github.com/Ulymar09/234867378-SADDOY
+   63  git status
+   64  git push
+   65  git commit -m "try"
+   66  git config --global user.email "saddoyulymar2@gmail.com"
+   67  git config --global user.name "Ulymar09"
+   68  login
+   69  proot-distro login ubuntu
+   70  pkg upgrade
+   71  pkg install openssh
+   72  passwd
+   73  ssh-keygen
+   74  whoami
+   75  ifconfig - ip address u0_a348
+   76  ifconfig - ip addresses  u0_a348
+   77  ifconfig - ip addresss  u0_a348
+   78  ssh
+   79  logcat -s 'sshd:'
+   80  logcat -s 'sshd'
+   81  sshd
+   82  git config --global.defaultBranch main
+   83  git config --global.defaultbranch main
+   84  git config --global init.defaultbranch main
+   85  git init
+   86  git remote add https://github.com/Ulymar09/234867378-SADDOY.git
+   87  git remote add origin https://github.com/Ulymar09/234867378-SADDOY.git
+   88  git checkout main
+   89  git checkout master
+   90  git fetch
+   91  git checkout main
+   92  git push
+   93  git push --set-upstream origin main
+   94  clear
+   95  git status
+   96  proot-distro login ubuntu
+   97  ls
+   98  cd 234867378-SADDOY
+   99  git push
+  100  exit
+  101  logout
+  102  md linux_practice
+  103  touch linux_practicd
+  104  cd linux_pracrics
+  105  cd linux_practice
+  106  cd linux_practicd
+  107  ls
+  108  cd linux_practicd
+  109  mkdir linux_practice
+  110  cd  linux_practice
+  111  touch notes.txt
+  112  ls
+  113  append notes.txt
+  114  cat notes.txt
+  115  echo "Hello, Linux" >> notes.txt
+  116  cat notes.txt
+  117  append "This is a practical exam." >> notes.txt
+  118  echo  "This is a practical exam." >> notes.txt
+  119  cat notes.txt
+  120  head notes.txt
+  121  tail notes.txt
+  122  mkdir subdir
+  123  mv notes.txt subdir
+  124  ls
+  125  cd subdir
+  126  ls
+  127  exit
+  128  ls
+  129  cd 234867378-SADDOY
+  130  cd linux_practice
+  131  cd subdir
+  132  ls
+  133  cd
+  134  cd 234867378-SADDOY
+  135  ls
+  136  cd linux_practice
+  137  mv subdir practice_subdir
+  138  ls
+  139  practice_subdir
+  140  cd practice_subdir
+  141  ls
+  142  cp notes.txt linux_practice
+  143  ls
+  144  cd..
+  145  cd../
+  146  cd ..
+  147  ls
+  148  cd practice_subdir
+  149  ls
+  150  cp linux_practice notes.txt
+  151  ls
+  152  cd ..
+  153  l
+  154  ls
+  155  cp linux_practice 
+  156  cd practice_subdir
+  157  ls
+  158  cd ..
+  159  cp notes.txt
+  160  cp notes.txt practice_subdir
+  161  cd  practice_subdir
+  162  ls
+  163  cp notes.txt linux_practice/
+  164  cp notes.txt linux_practice
+  165  ls
+  166  cd ..
+  167  ls
+  168  cls
+  169  ls
+  170  cd 234867378-SADDOY
+  171  cd ls
+  172  ls
+  173  cd linux_practice
+  174  cd subdir
+  175  cd practice_subdir
+  176  cp linux_practice/practice_subdir/notes.txt linux_practice/
+  177  cd ..
+  178  cp linux_practice/practice_subdir/notes.txt linux_practice/
+  179  cd ..
+  180  cp linux_practice/practice_subdir/notes.txt linux_practice/
+  181  ls
+  182  cd linux_practice
+  183  ls
+  184  date
+  185  uptime
+  186  du -sh -/
+  187  du -sh ~/
+  188  ssh -v
+  189  php -v
+  190  pkg install php
+  191  php -v
+  192  mysql --version
+  193  pkg install mariadb
+  194  apache2 -v
+  195  apache2
+  196  python --version
+  197  pkg install python
+  198  java -version
+  199  pkg install default-jdk
+  200  pkg install openjdk
+  201  cd ..
+  202  git checkout -b finalexam
+  203  git add notes.txt
+  204  cd linux_practice
+  205  cd practice_subdir
+  206  git add notes.txt
+  207  git commit -m "Added notes.txt with Linux command practices"
+  208  git push origin finalexam
+  209  cd~
+  210  cd ~
+  211  rm -rf linux_practice
+  212  history > exam_log.txt
+  213  cat exam_log.txt
+  214  ls
+  215  cd 23486677378-SADDOY
+  216  cat exam.log
+  217  cat exam_log.txt
+  218  cd 234867378-SADDOY
+  219  cat exam_log.txt
+  220  ls
+  221  cd linux_practice
+  222  ls
+  223  cd practice_subdir
+  224  ls
+  225  cls
+  226  clear
+  227  cd
+  228  Kayo na mag check
+  229  cd yourrepo(make sure wala sa loob ng linux_practice)
+  230  git checkout finalexam
+  231  git log -p --since='2024-08-08' --until='2024-08-10' --date=short -- exam_log.txt --reverse -n 1
+  232  Kayo na mag check
+  233  cd yourrepo(make sure wala sa loob ng linux_practice)
+  234  git checkout finalexam
+  235  git log -p --since='2024-08-08' --until='2024-08-10' --date=short -- exam_log.txt --reverse -n 1
+  236  ls
+  237  cd 234867378-SADDOY
+  238  git checkout finalexam
+  239  git log -p --since='2024-08-08' --until='2024-08-10' --data=short --exam_log.txt --reverse -n 1
+  240  git log -p --since='2024-08-08' --until='2024-08-10'--data=short --exam_log.txt --reverse -n 1
+  241  git log -p --since='2024-08-08' --until='2024-08-10'--data=short--exam_log.txt --reverse -n 1
+  242  ls
+  243  cd
+  244  ls
+  245  cat exam_log.txt
+  246  cd 234867378-SADDOY
+  247  git checkout -b finalexam
+  248  history > exam_log.txt
+  249  git add . exam_log.txt
+  250  git commit -m Sundan nyo lang ito. huwag matigas ang ulo. No need for explanation.
+  251  basta gawin nyo lang ulit ito, carefully... baka may mga magkakadikit kayong na itype na dapat magkahiwalay. 
+  252  Create a new branch named finalexam:
+  253  git checkout -b finalexam
+  254  Save your command history to exam_log.txt:
+  255  history > exam_log.txt
